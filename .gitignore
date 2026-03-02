@@ -1,1 +1,7 @@
 .venv
+*.de
+*.en
+*.py.1
+*.py.2
+log
+*.pth
